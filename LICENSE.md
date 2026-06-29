@@ -1,4 +1,4 @@
-# 
+# Instantáneo Letta (MemGPT) scripts. Con generación de código y agentes colaborativos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
